@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775985077466",
+    "project_id": "zambranaproyect",
+    "storage_bucket": "zambranaproyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775985077466:android:d92a341759cec70ece19e3",
+        "android_client_info": {
+          "package_name": "com.tesis.zambranaproyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775985077466-fmlfom4bq5kn6o2vvelbslklt10rie6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-y3O5htfXU07_towT72mDmHfqdi_Q8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775985077466-fmlfom4bq5kn6o2vvelbslklt10rie6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

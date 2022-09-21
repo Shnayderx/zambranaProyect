@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">zambranaProyect</string>
+    <string name="button1">Volver</string>
+    <string name="button2">Volver</string>
+    <string name="button3">Volver</string>
+    <string name="button4">Volver</string>
+
+    <string name="nuevosproductos">Nuevo</string>
+    <string name="ofertas">ofertas</string>
+    <string name="calidad">calidad</string>
+    <string name="económicos">Económico</string>
+
+    <string name="sugerir">Sugerir</string>
+
+
+
+</resources>
